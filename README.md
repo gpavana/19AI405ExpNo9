@@ -21,12 +21,12 @@ This is a python program that uses propositional logic sentences to check which 
 
 It is assumed that there will always be a safe path that the agent can take to exit the Wumpus world. The logical agent can take four actions: Up, Down, Left and Right. These actions help the agent move from one room to an adjacent room. The agent can perceive two things: Breeze and Stench.
 </p>
-## PROGRAM:
-```
-DEVELOPED BY : PAVANA.G
-REGISTER  NUMBER: 212222230105
-```
-```python
+<h1> PROGRAM:</h1>
+
+<h3>DEVELOPED BY : PAVANA.G</h3>
+<h3>REGISTER  NUMBER: 212222230105</h3>
+
+```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
         ["WUMPUS","GOLD","PIT","Breeze"],
